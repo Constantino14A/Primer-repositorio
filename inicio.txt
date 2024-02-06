@@ -1,1 +1,2 @@
 Hola, estoy aprendiendo git, veamos, espero no perder el tiempo procastinando, cada día lucho contra ello.
+Estoy agregando información a este archivo de texto plano.
