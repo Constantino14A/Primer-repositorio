@@ -4,8 +4,9 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-cabecera {
+#cabecera {
     border-radius: 5%;
     border-color: black;
     padding: 10;
+    color: blue;
 }
