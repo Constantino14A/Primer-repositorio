@@ -8,3 +8,8 @@ body {
 p {
     color:crimson;
 }
+
+#cabecera0 {
+    color: darkgreen;
+    background-color: brown;
+}
